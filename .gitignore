@@ -1,0 +1,3 @@
+secrets.txt
+# This file is used to ignore files that should not be tracked by Git.
+# It is common to ignore files that contain sensitive information, such as API keys or passwords.
